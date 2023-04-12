@@ -1,7 +1,6 @@
-- 👋 Hi, I’m selçuk saraş
+- 👋 Hi, I’m selçuk saraç
 - 👀 I’m interested in music
 - 🌱 I’m currently learning c# and javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me; my e mail: selcuksaracdisc@gmail.com
 
 <!---
